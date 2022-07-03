@@ -1,2 +1,2 @@
 # TinDog-Project
-Front-End and Back-End of the TinDog Project Website
+Front-End and the Back-End of the TinDog Project Website
